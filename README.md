@@ -1,2 +1,9 @@
 # wallpapers
-wallpapers i have collected and a script to rename them
+
+Clone repo
+
+`git clone https://github.com/asmithz/wallpapers`
+
+Add wallpapers into /wallpapers, then run script:
+
+`./rename_files.sh`
