@@ -1,7 +1,5 @@
 #!/bin/bash
 name="wallpaper"
-aux="aux"
-total=$(ls | wc -l)
 
 getExtension(){
   extension="${1#*.}"
